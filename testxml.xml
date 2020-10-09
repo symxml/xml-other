@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<xml>
+  <body>
+    <Rows Count="02">
+      <Row>
+        <a ID="ipaddress1">192.168.1.200</a>
+        <a ID="location1">Office</a>
+        <a ID="PPDModel1">C368</a>
+        <a ID="PrinterNamebw1">KM_BW</a>
+        <a ID="PrinterNameclr1">KM_COLOR</a>
+      </Row>
+      <Row>
+        <a ID="ipaddress2">192.168.1.202</a>
+        <a ID="location2">Reception</a>
+        <a ID="PPDModel2">C558</a>
+        <a ID="PrinterNamebw2">KM_BW2</a>
+        <a ID="PrinterNameclr2">KM_COLOR2</a>
+      </Row>
+    </Rows>
+  </body>
+  </xml>
